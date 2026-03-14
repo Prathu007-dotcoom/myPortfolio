@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Starting coding journey</h4>
+                <h5>Python, HTML, JavaScript</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Began learning programming in 2025 with Python as my first language. Quickly expanded into web development technologies including HTML and JavaScript to build full stack websites.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Hackathon Runner Up</h4>
+                <h5>Avishkar & Mumbai Hacks</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Secured runner-up positions at both Avishkar (Mumbai University hackathon) and Mumbai Hacks 2025. Participated in SIH (Smart India Hackathon) 2025-26.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Studying Advanced Technologies</h4>
+                <h5>IoT, Cybersecurity & Blockchain</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Currently studying Internet of Things (IoT), Cybersecurity, and Blockchain technology. Built approx 4-5 websites, including my biggest project, Heritage X.
             </p>
           </div>
         </div>
