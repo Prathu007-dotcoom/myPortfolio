@@ -1,7 +1,6 @@
 import {
   FaGithub,
   FaInstagram,
-  FaLinkedinIn,
   FaXTwitter,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
